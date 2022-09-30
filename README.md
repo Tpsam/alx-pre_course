@@ -1,1 +1,1 @@
-My first readme
+Using Git is kinda fun
